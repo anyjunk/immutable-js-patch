@@ -1,5 +1,5 @@
 {
-  "name": "immutablepatch",
+  "name": "@anyjunk/immutablepatch",
   "version": "0.4.2",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
